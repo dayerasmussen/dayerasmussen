@@ -1,16 +1,32 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/28290227/README.md)
+# Daye Rasmussen
 
-<!--
-**dayerasmussen/dayerasmussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de ADS · Estagiária de dados na Copel Comercialização · Ex-atleta profissional de futebol
 
-Here are some ideas to get you started:
+Perfil voltado para a interseção entre dados, negócios e pessoas. Comunicação clara, visão analítica e experiência prática em ambiente corporativo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Stack:** SQL · Python · Power BI
+
+---
+
+### Projetos
+
+**analise-mercado-livre-energia** — em breve
+Comportamento do consumidor no Mercado Livre de Energia com dados da CCEE
+
+**analise-futebol-feminino** — em breve
+Desempenho e tendências do futebol feminino brasileiro
+
+---
+
+### Agora
+
+- 3º período · Análise e Desenvolvimento de Sistemas
+- Estágio em dados · Copel Comercialização · Paraná
+- Estudando SQL, Power BI e metodologias ágeis
+
+---
+
+[LinkedIn](#) · [E-mail](#)
