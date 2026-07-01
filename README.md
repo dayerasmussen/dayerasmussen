@@ -13,16 +13,15 @@ Perfil voltado para a interseção entre dados, negócios e pessoas. Comunicaç�
 
 ### Projetos
 
-**[Faxina de Dados — PLD CCEE](https://github.com/dayerasmussen/energia-ccee)**
-Limpeza e tratamento de dados públicos do mercado de energia. Base: PLD Final Médio da CCEE.
-Stack: Python, pandas, Jupyter
+**[Faxina de Dados — PLD CCEE](https://github.com/dayerasmussen/energia-ccee)**  
+Limpeza e tratamento de dados públicos do mercado de energia. Python, pandas, Jupyter.
 
-**[Faxina de Dados — Copa do Mundo Feminina 2023](https://github.com/dayerasmussen/futebol-feminino)**
-Estruturação de dados de eventos de futebol feminino. Fonte: StatsBomb API.
-Stack: Python, pandas, statsbombpy, Jupyter
+**[Faxina de Dados — Copa do Mundo Feminina 2023](https://github.com/dayerasmussen/futebol-feminino)**  
+Estruturação de dados de futebol feminino via StatsBomb API. Python, pandas, statsbombpy, Jupyter.
+
 ---
 
-### Agora
+### Atualmente
 
 - 3º período · Análise e Desenvolvimento de Sistemas
 - Estágio em dados · Copel Comercialização · Paraná
@@ -30,4 +29,4 @@ Stack: Python, pandas, statsbombpy, Jupyter
 
 ---
 
-[LinkedIn](#) · [E-mail](#)
+[LinkedIn](https://www.linkedin.com/in/nedindaye-rasmussen-aa0785239/) · [E-mail](mailto:dayerasmussen@outlook.com)
