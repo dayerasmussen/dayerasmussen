@@ -13,12 +13,13 @@ Perfil voltado para a interseção entre dados, negócios e pessoas. Comunicaç�
 
 ### Projetos
 
-**analise-mercado-livre-energia** — em breve
-Comportamento do consumidor no Mercado Livre de Energia com dados da CCEE
+**[Faxina de Dados — PLD CCEE](https://github.com/dayerasmussen/energia-ccee)**
+Limpeza e tratamento de dados públicos do mercado de energia. Base: PLD Final Médio da CCEE.
+Stack: Python, pandas, Jupyter
 
-**analise-futebol-feminino** — em breve
-Desempenho e tendências do futebol feminino brasileiro
-
+**[Faxina de Dados — Copa do Mundo Feminina 2023](https://github.com/dayerasmussen/futebol-feminino)**
+Estruturação de dados de eventos de futebol feminino. Fonte: StatsBomb API.
+Stack: Python, pandas, statsbombpy, Jupyter
 ---
 
 ### Agora
