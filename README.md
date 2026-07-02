@@ -19,6 +19,9 @@ Limpeza e tratamento de dados públicos do mercado de energia. Python, pandas, J
 **[Faxina de Dados — Copa do Mundo Feminina 2023](https://github.com/dayerasmussen/futebol-feminino)**  
 Estruturação de dados de futebol feminino via StatsBomb API. Python, pandas, statsbombpy, Jupyter.
 
+**[Análise SQL — PLD CCEE](https://github.com/dayerasmussen/sql-ccee)**  
+Queries SQL exploratórias do mercado de energia. DuckDB, SQL, análise de volatilidade e risco.
+
 ---
 
 ### Atualmente
