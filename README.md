@@ -7,7 +7,11 @@ Perfil voltado para a interseção entre dados, negócios e pessoas. Comunicaç�
 
 ---
 
-**Stack:** SQL · Python · Power BI
+**Stack:** Python • SQL • DuckDB • Power BI • Microsoft Excel • HTML • AMPscript
+
+---
+
+**Skills:** ETL • Data Modeling • Data Validation • Business Rules • Marketing Cloud Data Preparation
 
 ---
 
