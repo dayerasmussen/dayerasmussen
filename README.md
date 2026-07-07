@@ -11,6 +11,13 @@ Perfil voltado para a interseção entre dados, negócios e pessoas. Comunicaç�
 
 ---
 
+### 📌 Destaque
+
+**[ETL Pipeline — Marketing Cloud](https://github.com/dayerasmussen/etl-marketing-cloud)**  
+Case study corporativo desenvolvido em ambiente de produção. Consolidação de múltiplas bases de dados, aplicação de regras de negócio e segmentação de clientes para campanhas no Salesforce Marketing Cloud.
+
+---
+
 ### Projetos
 
 **[Faxina de Dados — PLD CCEE](https://github.com/dayerasmussen/energia-ccee)**  
